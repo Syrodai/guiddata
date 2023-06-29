@@ -1,0 +1,7 @@
+##Title: guiddata
+##Author: Tehpa
+##Interface: 30401
+##SavedVariables: GUIDIndex, classStr
+##Notes: simple addon that gathers GUID class data
+
+guiddata.lua
